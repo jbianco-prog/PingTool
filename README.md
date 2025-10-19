@@ -152,7 +152,7 @@ Ce projet est distribué sous licence **GNU General Public License v3.0 (GPL-3.0
 - ⚠️ Le code source doit être disponible
 - ⚠️ Les modifications doivent être documentées
 
-Pour plus de détails, consultez le fichier LICENSE fourni avec ce projet ou visitez : https://www.gnu.org/licenses/gpl-3.0.html
+Pour plus de détails, visitez : https://www.gnu.org/licenses/gpl-3.0.html
 
 ---
 
