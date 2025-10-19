@@ -1,4 +1,4 @@
-# Outil de Test PING
+#PingTool (Version française uniquement)
 
 ## Description
 
@@ -143,14 +143,6 @@ Les contributions sont les bienvenues ! Merci de respecter la licence GPL lors d
 ## Licence
 
 Ce projet est distribué sous licence **GNU General Public License v3.0 (GPL-3.0)**.
-
-### En résumé :
-- ✅ Utilisation libre (personnelle et commerciale)
-- ✅ Modification du code autorisée
-- ✅ Distribution autorisée
-- ⚠️ Les modifications doivent également être distribuées sous GPL-3.0
-- ⚠️ Le code source doit être disponible
-- ⚠️ Les modifications doivent être documentées
 
 Pour plus de détails, visitez : https://www.gnu.org/licenses/gpl-3.0.html
 
