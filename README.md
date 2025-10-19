@@ -1,4 +1,4 @@
-#PingTool (Version française uniquement)
+# PingTool (Version française uniquement)
 
 ## Description
 
