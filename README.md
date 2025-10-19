@@ -50,8 +50,6 @@ Ce fichier Excel au format XLSM est un outil permettant de réaliser des tests P
 
 - **Colonne A** : Hostname ou adresse IP
 - **Colonne B** : Statut (Accessible / Inaccessible / En cours...)
-- **Colonne C** : Temps de réponse (ms)
-- **Colonne D** : Code de statut WMI et détails
 
 ## Fonctionnement technique
 
@@ -61,17 +59,6 @@ L'outil utilise la classe WMI `Win32_PingStatus` qui :
 - Envoie des paquets ICMP Echo Request (protocole ICMP)
 - Récupère les réponses ICMP Echo Reply
 - Fournit des informations détaillées (temps de réponse, TTL, code de statut)
-- Ne nécessite pas d'appel à cmd.exe ou au système externe
-
-### Codes de statut WMI
-
-- **0** : Succès - L'hôte a répondu
-- **11001** : Buffer trop petit
-- **11002** : Destination inaccessible
-- **11003** : Destination inaccessible
-- **11004** : Destination inaccessible (port)
-- **11005** : Pas de ressources
-- **11010** : Délai d'attente dépassé (Request Timed Out)
 
 ## Dépannage
 
@@ -169,9 +156,9 @@ Pour plus de détails, consultez le fichier LICENSE fourni avec ce projet ou vis
 
 ---
 
-**Version** : 1.0  
+**Version** : 1.1  
 **Dernière mise à jour** : Octobre 2025  
-**Auteur** : [Votre nom]  
+**Auteur** : [micro-one.com](https://micro-one.com)
 **Licence** : GPL-3.0  
 **Technologie** : VBA + WMI (Windows Management Instrumentation) + ICMP
 
