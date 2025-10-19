@@ -39,7 +39,7 @@ Ce fichier Excel au format XLSM est un outil permettant de réaliser des tests P
    - Exemples : `google.com`, `192.168.1.1`, `server01.local`
 
 2. **Lancer les tests** :
-   - Cliquez sur le bouton "Lancer PING" ou exécutez la macro principale
+   - Cliquez sur le bouton "Calculer" ou exécutez la macro principale
    - Patientez pendant l'exécution des tests
 
 3. **Consulter les résultats** :
