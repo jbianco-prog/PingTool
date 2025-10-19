@@ -1,4 +1,4 @@
-# PingTool
+# Outil de Test PING
 
 ## Description
 
