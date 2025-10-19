@@ -150,7 +150,7 @@ Pour plus de détails, visitez : https://www.gnu.org/licenses/gpl-3.0.html
 
 **Version** : 1.1  
 **Dernière mise à jour** : Octobre 2025  
-**Auteur** : [micro-one.com](https://micro-one.com)
+**Auteur** : [micro-one.com](https://micro-one.com)  
 **Licence** : GPL-3.0  
 **Technologie** : VBA + WMI (Windows Management Instrumentation) + ICMP
 
